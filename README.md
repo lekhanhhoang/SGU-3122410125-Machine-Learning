@@ -1,4 +1,4 @@
-## TRÍ TUỆ NHÂN TẠO NÂNG CAO - NHÓM 1
+## NHẬP MÔN MÁY HỌC - 3122410125 - LÊ KHÁNH HOÀNG
 
 ## Table of contents
 * [Danh sách thành viên nhóm](#thành-viên)
@@ -8,10 +8,7 @@
 ## THÀNH VIÊN
 | MSSV | Họ tên | Nhóm trưởng |
 |------|-----------------|------|
-| 3122410004 |  Nguyễn Văn An  | ✅ |
-| 3122410294 |  Lý Minh Phát  | ... |
-| 3122410125 |  Lê Khánh Hoàng  | ... |
-| 3122410247 |  Lê Quốc Nam  | ... |
+| 3122410125 |  Lê Khánh Hoàng  | ✅ |
    
 ## Process
 | Tuần | Nội dung (LAPS) | Trạng thái | Ghi chú |
