@@ -1,6 +1,6 @@
 ## NHẬP MÔN MÁY HỌC - 3122410125 - LÊ KHÁNH HOÀNG
 
-## Table of contents
+## TABLE OF CONTENTS
 * [Danh sách thành viên nhóm](#thành-viên)
 * [Tiến độ làm việc](#process)
 
@@ -10,7 +10,7 @@
 |------|-----------------|------|
 | 3122410125 |  Lê Khánh Hoàng  | ✅ |
    
-## Process
+## PROCESS
 | Tuần | Nội dung (LAPS) | Trạng thái | Ghi chú |
 |------|-----------------|------------|---------|
 | WEEK 1 (01/09/2025 - 07/09/2025) | ... | ⏳ Chưa bắt đầu | ... |
